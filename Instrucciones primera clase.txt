@@ -1,32 +1,17 @@
 
-https://www.debian.org/distrib/
-
-Descargo: iso netinst para PC de 64 bits
-
-User vboxuser
-Contraseña vboxuser
-
-Asignamos 2 GB de RAM
-Asignamos 2 núcleos de CPU
-Tamaño de unos 20 GB
-
-
-Haz clic derecho sobre tu máquina virtual creada y selecciona Configuración.
-
-Ve al apartado de Red -> Adaptador 1.
-
-Cambia "Conectado a:" por Adaptador Puente (Bridged Adapter).
-
-En "Nombre", elige tu tarjeta de red física actual (la Wi-Fi o tarjeta de red de tu portátil). Pulsa Aceptar.
+https://www.debian.org/dist
 
 
 
-Al instalar cosas recordar usar sudo!!
 
 
-Pasar teclado a Español: configuración, keyboard, elegir español Windows
 
 
-Si abro archivo con nano lo guardo con control+o y me voy con control+x
 
 
+
+
+He hecho cambios jeje
+
+
+Otro cambio
